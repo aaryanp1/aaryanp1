@@ -1,4 +1,4 @@
-# Hi, I'm Aryan Pandey 👋
+# Hi, I'm Aryan Pandey 
 
 ### AI & Machine Learning | Data Science | Business Analytics | Financial Analytics
 

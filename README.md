@@ -20,7 +20,6 @@ PyTorch · TensorFlow · Keras · OpenCV · Transformers · Jupyter · Google Co
 * Artificial Intelligence & Machine Learning
 * Data Science & Analytics
 * Business & Financial Analytics
-* Quantitative Research
 * Backend Systems & REST APIs
 * Data-driven Software Development
 * Open-source Technologies
